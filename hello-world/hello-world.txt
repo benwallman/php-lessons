@@ -1,0 +1,3 @@
+Aim of lesson:
+
+To create a basic php file, which outputs 'hello world'. This is the first command you often run in a language, as it checks the project has been configured enough to be able to run
