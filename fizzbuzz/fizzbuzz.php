@@ -12,9 +12,6 @@
                 } else if ($integer % 5 == 0) {
                     echo "Buzz";
                 }
-                else {
-                    echo $integer;
-                }
                 echo "<br/>";
             }
         ?>

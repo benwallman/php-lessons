@@ -1,0 +1,5 @@
+Make an api that takes in a number as a parameter, and returns a result based on the previous FizzBuzz tutorial
+
+E.g.
+get localhost/fizzbuzz-api/fizzbuzz-api.php?number=12 returns "Fizz"
+
